@@ -51,5 +51,5 @@ private function sendEmail($users) //:return type?
     } 
     return true; //add empty line for better look
 }
-//this ending questionmark is unneccesary
+//this ending is unneccesary
 ?> 
